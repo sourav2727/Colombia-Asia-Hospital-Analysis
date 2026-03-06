@@ -2,7 +2,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced%20Queries-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 
 > A full-stack data analytics project covering data engineering (MySQL), business intelligence (Power BI), and advanced SQL — built to extract operational and clinical insights from hospital patient visit data.
 
@@ -35,7 +35,7 @@ The project was built end-to-end:
 colombia-hospital-analytics/
 ├── SQL_1.sql                # DDL + Data: Doctors table
 ├── SQL_2.sql                # DDL + Data: Patients table
-├── SQL_QUERY.sql            # Analytical SQL queries (Q15–Q21)
+├── SQL_QUERY.sql            # Analytical SQL queries 
 ├── Colombia_Hospital.pbix   # Power BI dashboard
 ├── Colombia_Hospital.pptx   # Presentation deck
 ├── Colombia_Hospital.docx   # Full written report
